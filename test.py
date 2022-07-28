@@ -1,5 +1,3 @@
-import random
-
 print("hello world!")
 def mad(x):
     if x>=0.7:
